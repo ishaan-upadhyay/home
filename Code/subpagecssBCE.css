@@ -8,8 +8,8 @@
 	margin: auto;
 	width: 65%;
 }
-body {
-	background-image:url(images/Backgroundscroll.jpg);
+body, .intro, .content {
+	background-image: url(images/Backgroundscroll.jpg);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
